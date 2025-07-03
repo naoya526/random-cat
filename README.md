@@ -1,6 +1,5 @@
 # Dog Image Generator
 
-<img src="./dog-recording.gif" alt="Dog Recording Demo" width="50%" />
 <div style="display: flex; align-items: center; gap: 2rem;">
     <img src="./dog-recording.gif" alt="Dog Recording Demo" width="50%" />
     <div>
