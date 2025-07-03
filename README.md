@@ -1,8 +1,10 @@
 # Dog Image Generator
+![Dog Recording Demo](./dog-recording.gif)
+
 This app is based on [Dog API](https://dog.ceo/dog-api/)
 and [Survival TypeScript](https://typescriptbook.jp/tutorials)
-
-You can access to the application on [here](https://random-jbgp8d9f8-naoya526s-projects.vercel.app/)
+For my originality, I used Dog API instead of Cat API. 
+You can access to the application on [HERE!](https://random-jbgp8d9f8-naoya526s-projects.vercel.app/)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
