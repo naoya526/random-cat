@@ -1,6 +1,7 @@
 # Dog Image Generator
 You can access to my application [HERE!](https://random-jbgp8d9f8-naoya526s-projects.vercel.app/)
-![Dog Recording Demo](./dog-recording.gif)
+<img src="./dog-recording.gif" alt="Dog Recording Demo" width="50%" />
+
 
 This app is based on [Dog API](https://dog.ceo/dog-api/)
 and [Survival TypeScript](https://typescriptbook.jp/tutorials)
