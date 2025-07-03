@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { connection } from "next/server";
 import { CatImage } from "./cat-image";
 import { fetchImage } from "./fetch-image";
